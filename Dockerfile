@@ -1,4 +1,4 @@
-FROM glzjin/base_php7.3_apache
+FROM dasctfbase/web_php73_apache
 
 COPY src /var/www/html
 
